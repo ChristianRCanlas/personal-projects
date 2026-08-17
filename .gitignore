@@ -5,6 +5,3 @@ pushing-jupyter-NBs-with-images.txt
 .venv/
 venv/
 desktop.ini
-
--- need to add a line for everything with desktop.ini
-git rm --cached "10-data-architecture\desktop.ini"
