@@ -2,6 +2,13 @@ project-ideas.txt
 git-commands.txt
 python-commands.txt
 pushing-jupyter-NBs-with-images.txt
+
+# hides python virtual environments.
 .venv/
 venv/
+
+# hides the folder icons and personal picture folder path.
 desktop.ini
+
+# hides the folder that stores your folder for your azure, fabric, and power bi projects.
+azure-fabric-and-power-bi
